@@ -1,6 +1,6 @@
 ## George Maddocks
 
-Following various roles that involved working with developers, I've decided to become one myself. A product of the [Makers Academy](http://www.makersacademy.com/) bootcamp, I'm now skilled at test-driven, object-oriented development. I'm looking for a junior developer role where I can hone what I've learned and have fun with it! I'm looking to work in an agile environment where code quality is valued and personal development is encouraged.
+Following various roles that involved working with developers, I've decided to become one myself! A product of the [Makers Academy](http://www.makersacademy.com/) bootcamp, I've become skilled at test-driven, object-oriented development. I'm looking for a junior developer role where I can hone what I've learned and have fun with it! I'd love to work in an agile environment where code quality is valued and personal development is encouraged.
 
 ## Skills
 
