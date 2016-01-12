@@ -18,7 +18,6 @@ Started using it at Makers Academy and now can't get enough.
 
 - Confident with and competent at using the language within a web application context, as well as for its own sake. Familiar with frameworks like AngularJS, NodeJS and testing resources like Jasmine ([example](https://github.com/gwpmad/bowling-challenge/blob/master/spec/frameSpec.js)), Protractor ([example](https://github.com/gwpmad/todo_challenge/blob/master/e2e/toDoListFeature.js)) and Karma ([example](https://github.com/gwpmad/github-profile/blob/master/test/searchfactory.spec.js)).
 - Worked on a number of different team and solo projects with a Javascript focus.
-- Projects where I've used JavaScript:[Cappricioso](https://github.com/djtango/capriccioso), [SofAR](https://github.com/djtango/furniture-app), [To-Do-List](https://github.com/gwpmad/todo_challenge),  [Chitter](https://github.com/gwpmad/chitter-challenge), [Bowling Challenge](https://github.com/gwpmad/bowling-challenge)
 
 #### Ruby
 
