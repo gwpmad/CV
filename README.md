@@ -51,7 +51,7 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 - Learned to work as part of a software development team as well as solo
 - Learned to use Github branching for collaborative development
 
-#### University of Warwick (2008 to 2011)
+#### University of Warwick (October 2008 to June 2011)
 
 - Bachelor of Arts, Ancient History
 - Graduated with 2:1 degree classification
