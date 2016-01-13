@@ -60,11 +60,11 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 
 **GroupM** (Feburary 2014 to October 2014)   
 *Service Analyst*  
-Required detailed operational expertise, and utilised my technical and problem-solving skills.  
+Required detailed operational expertise, and utilised my technical and problem-solving skills. GroupM comprises WPP's media investment management agencies.  
 
 **Investis** (March 2012 to September 2013)  
 *Research, Analysis & Content Consultant*  
-A varied role encompassing content creation, site analytics work and social media management.
+A varied role encompassing content creation, site analytics work and social media management. Investis is a digital investor relations agency that develops corporate websites and apps and handles the digital release of annual results.
 
 **Ofcom** (October 2011 to January 2012)  
 *Standards Executive*  
