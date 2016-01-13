@@ -64,8 +64,13 @@ Required detailed operational expertise, and utilised my technical and problem-s
 
 **Investis** (March 2012 to September 2013)  
 *Research, Analysis & Content Consultant*  
-A varied role encompassing content creation, site analytics work and social media management. Investis is a digital investor relations agency that develops corporate websites and apps and handles the digital release of annual results.
+A varied role encompassing content creation, site analytics work and social media management. Investis is a digital investor relations agency that develops corporate websites and apps and handles the digital release of annual company results.
 
 **Ofcom** (October 2011 to January 2012)  
 *Standards Executive*  
 A stint in Ofcom's television and radio standards department.
+
+## Interests
+I am an active musician. I play the violin in the Camden Symphony Orchestra, and can also play the piano and guitar.
+
+I volunteer at the [St. Andrews Homeless Project](http://standrewsfulham.com/church-life/homeless-project) on Saturday mornings, washing dishes, serving food and cooking occasionally.
