@@ -60,7 +60,7 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 
 **GroupM** (Feburary 2014 to October 2014)   
 *Service Analyst*  
-Required detailed operational expertise, and utilised my technical and problem-solving skills. GroupM comprises WPP's media investment management agencies.  
+GroupM comprises WPP's media investment management agencies. This was an operational role working with the group's widely-used internal media buying software. While this was not a coding role, it required detailed operational expertise, and utilised my technical ability and problem-solving skills. I worked closely with the software's development team, raising bugs, communicating feature requests and testing the system.
 
 **Investis** (March 2012 to September 2013)  
 *Research, Analysis & Content Consultant*  
