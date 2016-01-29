@@ -1,6 +1,6 @@
 ## George Maddocks
 
-Following various roles that involved working with developers, I've decided to become one myself! A product of the [Makers Academy](http://www.makersacademy.com/) bootcamp, I've become skilled at test-driven, object-oriented development. I'm looking for a junior developer role where I can hone what I've learned and have fun with it! I'd love to work in an agile environment where code quality is valued and personal development is encouraged.
+Following various roles that involved working with developers, I've decided to become one myself! A product of the [Makers Academy](http://www.makersacademy.com/) bootcamp, I've become skilled at test-driven, object-oriented development. I'm looking for a junior developer role where I can hone what I've learned and have fun with it. I'd love to work in an agile environment where code quality is valued and personal development is encouraged.
 
 ## Skills
 
@@ -58,7 +58,7 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 
 ## Experience
 
-**GroupM** (Feburary 2014 to October 2014)   
+**GroupM** (Feburary 2014 to October 2015)   
 *Service Analyst*  
 GroupM comprises WPP's media investment management agencies. This was an operational role working with the group's widely-used internal media buying software. While this was not a coding role, it required detailed operational expertise, and utilised my technical ability and problem-solving skills. I worked closely with the software's development team, raising bugs, communicating feature requests and testing the system.
 
