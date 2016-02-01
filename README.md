@@ -32,6 +32,7 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 
 |Project Name | Description | Technologies and languages worked with |
 |-------------|-------------|-------------|
+|[Personal Website](https://still-fjord-60429.herokuapp.com/)|A single page website about myself. Features a parallax effect on the main image and uses Github's API to pull in my most recent repositories. [Code here](https://github.com/gwpmad/personal-website).|AngularJS, NodeJS, Express. Tested with Karma. Deployed to Heroku|
 |[SofAR](https://github.com/djtango/furniture-app)|An Android app that uses Augmented Reality to help you visualise potential furniture purchases in your home.|Javascript, Java, HTML, CSS, Android Studio, [Wikitude](http://www.wikitude.com/)|
 |[Cappricioso](https://github.com/djtango/capriccioso)|A web app designed to help music students hone their musical ear.|AngularJS, NodeJS, Express. Tested with Karma|
 |[To-Do-List](https://github.com/gwpmad/todo_challenge)|A single page to-do list application to help people remember and check off tasks.|AngularJS, NodeJS, HTML, CSS, Bootstrap. Fully tested with Protractor and Karma|
