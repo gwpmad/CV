@@ -34,7 +34,7 @@ Highly familiar with Ruby and the best practices associated with it. I learned t
 |-------------|-------------|-------------|
 |[Personal Website](https://still-fjord-60429.herokuapp.com/)|A single page website about myself. Features a parallax effect on the main image and uses Github's API to pull in my most recent repositories. [Code here](https://github.com/gwpmad/personal-website).|AngularJS, NodeJS, Express. Tested with Karma. Deployed to Heroku|
 |[SofAR](https://github.com/djtango/furniture-app)|An Android app that uses Augmented Reality to help you visualise potential furniture purchases in your home.|Javascript, Java, HTML, CSS, Android Studio, [Wikitude](http://www.wikitude.com/)|
-|[Cappricioso](https://github.com/djtango/capriccioso)|A web app designed to help music students hone their musical ear.|AngularJS, NodeJS, Express. Tested with Karma|
+|[Capriccioso](https://capriccioso.herokuapp.com)|A web app designed to help music students hone their musical ear. [Code here](https://github.com/djtango/capriccioso).|AngularJS, NodeJS, Express. Tested with Karma|
 |[To-Do-List](https://github.com/gwpmad/todo_challenge)|A single page to-do list application to help people remember and check off tasks.|AngularJS, NodeJS, HTML, CSS, Bootstrap. Fully tested with Protractor and Karma|
 |[Bowling](https://github.com/gwpmad/bowling-challenge)|A JavaScript bowling score calculator.|Javascript. Fully tested with Jasmine|
 |[Airport Challenge](https://github.com/gwpmad/Airport-Challenge-in-Python)|Early on in our Ruby learning we created a REPL-based airport traffic control app, allowing you to take off and land planes within an airport. I recreated this using Python as part of my efforts to become familiar with the language.|Python|
